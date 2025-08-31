@@ -49,8 +49,13 @@ Hello! I'm Sagnik, an AI/ML enthusiast with a passion for web development. I lov
 ### 🌐 Let's Connect
 
 <p><a target="_blank" href="https://x.com/imsagnik_" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.instagram.com/imsagnik_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<a target="_blank" href="https://www.instagram.com/imsagnik_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a href="https://github.com/sciguy-code"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a>
+<a href="https://x.com/imsagnik_"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=6bdfcf"></a></p>
+
+<p>You can also reach me by email: <strong>sciguy-work@protonmail.com</strong></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sciguy-code&show_icons=true&locale=en" alt="sciguy-code" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sciguy-code&" alt="sciguy-code" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sciguy-code&show_icons=true&locale=en&layout=compact" alt="sciguy-code" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sciguy-code" alt="sciguy-code" /></a></p>
+
