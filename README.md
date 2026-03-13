@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Sagnik Biswas</h1>
   <p><em>systems · algorithms · low-level engineering</em></p>
+  <p>
+    <a href="https://x.com/imsagnik_">x</a> ·
+    <a href="mailto:sagnik.biswas2005@gmail.com">email</a>
+  </p>
 </div>
 
 ---
@@ -15,7 +19,14 @@ outside of that: os fundamentals, algorithmic problems, and figuring out why my 
 
 ---
 
-#
+## projects
+
+| project | what it is |
+|---|---|
+| [impulse](https://github.com/sciguy-code/impulse-engine) | custom physics engine — in progress |
+| [lumina](https://github.com/sciguy-code/lumina) | vector-based image processing engine |
+| [Hi-CliTr](https://github.com/sciguy-code/Hi-CliTr) | cognitive radiology model |
+| [reelsense](https://github.com/sciguy-code/reelsense) | hybrid movie recommendation system |
 
 ---
 
@@ -25,14 +36,12 @@ outside of that: os fundamentals, algorithmic problems, and figuring out why my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-**[github.com/sciguy-code](https://github.com/sciguy-code)** · sagnik.biswas2005@gmail.com
+*only black current can fix me* ☕️
