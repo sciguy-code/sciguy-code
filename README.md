@@ -23,6 +23,7 @@ outside of that: os fundamentals, algorithmic problems, and figuring out why my 
 
 | project | what it is |
 |---|---|
+| [mini-search-engine](https://github.com/sciguy-code/mini-search-engine) | text based search engine in c++ |
 | [impulse](https://github.com/sciguy-code/impulse-engine) | custom physics engine — in progress |
 | [lumina](https://github.com/sciguy-code/lumina) | vector-based image processing engine |
 | [Hi-CliTr](https://github.com/sciguy-code/Hi-CliTr) | cognitive radiology model |
