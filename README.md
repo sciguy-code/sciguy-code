@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sagnik Biswas</h1>
-  <p><em>systems · algorithms · low-level engineering</em></p>
+  <p><em>systems · algorithms · backend dev</em></p>
   <p>
     <a href="https://x.com/imsagnik_">x</a> ·
     <a href="mailto:sagnik.biswas2005@gmail.com">email</a>
@@ -11,7 +11,7 @@
 
 ## about
 
-first-year IT undergrad at IIEST Shibpur. i work mostly in **C/C++** — pointers, memory layout, data structure internals. i implement things from scratch because that's how you actually understand them.
+sophomore IT undergrad at IIEST Shibpur. i work mostly in **C/C++** — pointers, memory layout, data structure internals. i implement things from scratch because that's how you actually understand them.
 
 also do **backend work** with FastAPI when i need to build real services. planning to pick up **Go** next — the concurrency model looks worth understanding.
 
