@@ -11,11 +11,7 @@
 
 ## about
 
-sophomore IT undergrad at IIEST Shibpur. i work mostly in **C/C++** — pointers, memory layout, data structure internals. i implement things from scratch because that's how you actually understand them.
-
-also do **backend work** with FastAPI when i need to build real services. planning to pick up **Go** next — the concurrency model looks worth understanding.
-
-outside of that: os fundamentals, algorithmic problems, and figuring out why my code doesn't work.
+sophomore IT undergrad at IIEST Shibpur. i work mostly in **C/C++**. 
 
 ---
 
